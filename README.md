@@ -1,5 +1,5 @@
 # Prueba
-##Subtitulo
+## Subtitulo
 **Prueba**
 prueba
 Just another repository
